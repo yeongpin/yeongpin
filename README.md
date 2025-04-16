@@ -92,4 +92,20 @@ Experienced in:
 - 🎨 [3D Assets Store](https://www.fab.com/sellers/Pin%20Studios)
 - 💖 [Support me on Patreon](https://www.patreon.com/PinNumber)
 
+## 💰 Buy Me a Coffee
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="./images/provi-code.jpg" alt="buy_me_a_coffee" width="280"/><br>
+      </td>
+      <td>
+        <img src="./images/paypal.png" alt="buy_me_a_coffee" width="280"/><br>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 Thanks for stopping by! Feel free to check out my projects and connect with me. Let's create something amazing together! 🚀
