@@ -108,4 +108,4 @@ Experienced in:
 </div>
 
 
-Thanks for stopping by! Feel free to check out my projects and connect with me. Let's create something amazing together! 🚀
+Thanks for stopping by! Feel free to check out my projects and connect with me. Let's create something amazing together! 🚀 AA
