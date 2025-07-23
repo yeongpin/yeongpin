@@ -11,9 +11,6 @@ I am a passionate developer and content creator, focusing on game development an
 
 <a href="https://trendshift.io/repositories/13425" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13425" alt="yeongpin%2Fcursor-free-vip | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 <br>
-<a href="https://www.buymeacoffee.com/yeongpin" target="_blank">
-      <img src="https://img.buymeacoffee.com/button-api/?text=buy me a coffee&emoji=☕&slug=yeongpin&button_colour=ffda33&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00&latest=2" width="160" height='55' alt="Buy Me a Coffee"/>
-</a>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeongpin&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
